@@ -23,8 +23,8 @@ Building and maintaining production web applications, modernizing legacy systems
 ---
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,vue,vite,html,css,tailwind,bootstrap,mysql,docker,git,ubuntu,nginx,apache,nodejs,vscode,postman&perline=10" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,vue,vite,html,css,tailwind,bootstrap,mysql,docker,git,ubuntu,nginx,nodejs,vscode,postman&perline=10" />
 </p>
 
 ---
